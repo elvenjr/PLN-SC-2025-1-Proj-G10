@@ -1,6 +1,6 @@
 # PLN-SC-2025-1 · Projeto G10  
 **Classificação de Intenções em Atendimento ao Cliente**  
-Seminário 2 — Processamento de Linguagem Natural (PLN) · UFSCar
+Seminário 2 — Processamento de Linguagem Natural (PLN) · UFSCar.
 
 ---
 
